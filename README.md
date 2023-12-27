@@ -1,7 +1,7 @@
 # DCM-system
-Innovative Case Management System: Developed an advanced system utilizing AI and NLP (BERT) to revolutionize case processing in the judicial system.
+#Innovative Case Management System: Developed an advanced system utilizing AI and NLP (BERT) to revolutionize case processing in the judicial system.
 
-Priority-Based Tracking: Implemented a mechanism to categorize cases into High, Medium, and Low priority tracks, ensuring urgent cases receive expedited resolution while efficiently handling others.
+#Priority-Based Tracking: Implemented a mechanism to categorize cases into High, Medium, and Low priority tracks, ensuring urgent cases receive expedited resolution while efficiently handling others.
 
 AI-Powered Assistance for Judges: Introduced AI-driven tools assisting judges in analyzing case details and predicting outcomes, reducing their workload and expediting decision-making processes.
 
