@@ -1,12 +1,27 @@
-# DCM-system
-#Innovative Case Management System: Developed an advanced system utilizing AI and NLP (BERT) to revolutionize case processing in the judicial system.
+# Case Priority Prediction Using AI
 
-#Priority-Based Tracking: Implemented a mechanism to categorize cases into High, Medium, and Low priority tracks, ensuring urgent cases receive expedited resolution while efficiently handling others.
+## Description
+This project utilizes AI and Natural Language Processing (NLP) to predict the priority of legal cases based on their descriptions. It aims to enhance case management efficiency by categorizing cases into **High**, **Medium**, and **Low** priority tracks.
 
-AI-Powered Assistance for Judges: Introduced AI-driven tools assisting judges in analyzing case details and predicting outcomes, reducing their workload and expediting decision-making processes.
+## Features
+- **AI Model for Case Priority Prediction**: The AI model predicts the priority (**High**/**Medium**/**Low**) of legal cases by analyzing case descriptions.
+  
+- **Mobile App Integration**: Includes a user-friendly mobile app that allows stakeholders to track the status of predicted cases and receive updates on case progress.
 
-Efficiency and Fairness: Achieved a balance between efficiency and fairness by establishing standard timelines for cases in the Medium Priority Track, minimizing delays, and preventing legal exploitation.
+- **NLP (BERT) for Case Analysis**: Utilizes BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art NLP model, to analyze and process case details for accurate priority prediction.
 
-Enhanced User Experience: Developed a user-friendly mobile app enabling citizens to track case statuses, integrated an AI bot for answering queries, and facilitated digitalization of evidence to streamline the legal process.
+## Technologies Used
+- **Python**: Programming language used for model development and implementation.
+  
+- **TensorFlow**: Framework used for building and training the AI model.
+  
+- **Google Colab**: Cloud-based platform used for collaborative development and training of the AI model.
+  
+- **BERT (Bidirectional Encoder Representations from Transformers)**: Pre-trained NLP model used for understanding and analyzing case descriptions.
 
-Sustainability with Blockchain: Ensured security and authenticity of evidence by leveraging decentralized cloud storage and blockchain technology, bolstering security measures.
+## Achieved Accuracy
+- The AI model has achieved an accuracy of **76%** in predicting case priorities based on a test dataset. This accuracy was validated through rigorous testing and cross-validation techniques.
+
+  ![Project Screenshot](images/screenshot.png)
+
+  
