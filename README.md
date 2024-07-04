@@ -22,9 +22,11 @@ This project utilizes AI and Natural Language Processing (NLP) to predict the pr
 ## Achieved Accuracy
 - The AI model has achieved an accuracy of **76%** in predicting case priorities based on a test dataset. This accuracy was validated through rigorous testing and cross-validation techniques.
 
-  ![Project Screenshot](Screenshot 2024-07-04 215602.png)
-  ![Project Screenshot](Screenshot 2024-07-04 215735.png)
-  ![Project Screenshot](Screenshot 2024-07-04 215805.png)
-
+<p align="center">
+  <img src="Screenshot 2024-07-04 215602.png" width="250" height= "60 "title="hover text">
+  <img src="Screenshot 2024-07-04 215735.png" width="450" height="60" title="hover text">
+  <img src="Screenshot 2024-07-04 215805.png" width="350" title="hover text">
+ 
+</p>
 
   
